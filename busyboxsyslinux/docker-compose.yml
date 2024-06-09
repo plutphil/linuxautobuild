@@ -1,0 +1,10 @@
+
+version: '3.8'
+
+services:
+  linux_builder:
+    build: .
+    privileged: true
+    volumes:
+      - ./output:/output
+      - ./build_linux.sh:/build_linux.sh

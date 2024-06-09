@@ -1,0 +1,1 @@
+"C:\Program Files\QEMU\qemu-system-x86_64.exe" output/boot
