@@ -8,3 +8,12 @@ docker-compose up
 qemu-system-x86_64
 # on windows you can use
 runqemu.cmd
+
+```
+This is based on these youtube tutorials:
+Making Simple Graphical Linux Distro from Scratch
+https://www.youtube.com/watch?v=guSDz5Iwgw0
+Making Simple Linux Distro from Scratch
+https://www.youtube.com/watch?v=QlzoegSuIzg
+Making Minimal Linux Distro with Buildroot
+https://www.youtube.com/watch?v=ey3sKdOmPa8
